@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+
 It is so a planet!
 I have fixed the conflict
+
+
+It is so a planet!
 
